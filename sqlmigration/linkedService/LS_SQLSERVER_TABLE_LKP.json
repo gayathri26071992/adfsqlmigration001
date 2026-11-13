@@ -1,0 +1,21 @@
+{
+	"name": "LS_SQLSERVER_TABLE_LKP",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"server": "GAYATHRI\\SQLEXPRESS",
+			"database": "SQLMIGRATION",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "PRACTICEPROJECT",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI3MzczZWU0Ni1kMGY4LTRiODAtYWIxZi0xMmRhMmVhYTZjZGEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "integrationRuntime2",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

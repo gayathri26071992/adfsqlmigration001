@@ -1,0 +1,13 @@
+{
+	"name": "DS_SQLSERVER_LKP",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_SQL_SERVER_LKP",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

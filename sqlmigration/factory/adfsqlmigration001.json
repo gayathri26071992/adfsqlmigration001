@@ -1,0 +1,15 @@
+{
+	"name": "adfsqlmigration001",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "57465396-1cf1-4bed-92d9-9ecdc6943112",
+		"tenantId": "33653a22-3dca-4452-bb7c-ee29d20c0ad5"
+	}
+}
