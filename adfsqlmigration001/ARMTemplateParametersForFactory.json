@@ -1,0 +1,78 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adfsqlmigration001"
+		},
+		"LS_LKP_MAX_VALUE_password": {
+			"value": ""
+		},
+		"LS_Onpremsql_DW_password": {
+			"value": ""
+		},
+		"LS_SINK_SQL_PARQUET_accountKey": {
+			"value": ""
+		},
+		"LS_SQLSERVER_TABLE_LKP_password": {
+			"value": ""
+		},
+		"LS_SQL_SERVER_LKP_password": {
+			"value": ""
+		},
+		"LS_sql_PARQUET_password": {
+			"value": ""
+		},
+		"LS_LKP_MAX_VALUE_properties_typeProperties_server": {
+			"value": "GAYATHRI\\SQLEXPRESS"
+		},
+		"LS_LKP_MAX_VALUE_properties_typeProperties_database": {
+			"value": "SQLMIGRATION"
+		},
+		"LS_LKP_MAX_VALUE_properties_typeProperties_userName": {
+			"value": "PracticeProject"
+		},
+		"LS_Onpremsql_DW_properties_typeProperties_server": {
+			"value": "GAYATHRI\\SQLEXPRESS"
+		},
+		"LS_Onpremsql_DW_properties_typeProperties_database": {
+			"value": "SQLMIGRATION"
+		},
+		"LS_Onpremsql_DW_properties_typeProperties_userName": {
+			"value": "PracticeProject"
+		},
+		"LS_SINK_SQL_PARQUET_properties_typeProperties_url": {
+			"value": "https://sgsinksqlmigration001.dfs.core.windows.net/"
+		},
+		"LS_SQLSERVER_TABLE_LKP_properties_typeProperties_server": {
+			"value": "GAYATHRI\\SQLEXPRESS"
+		},
+		"LS_SQLSERVER_TABLE_LKP_properties_typeProperties_database": {
+			"value": "SQLMIGRATION"
+		},
+		"LS_SQLSERVER_TABLE_LKP_properties_typeProperties_userName": {
+			"value": "PRACTICEPROJECT"
+		},
+		"LS_SQL_SERVER_LKP_properties_typeProperties_server": {
+			"value": "GAYATHRI\\SQLEXPRESS"
+		},
+		"LS_SQL_SERVER_LKP_properties_typeProperties_database": {
+			"value": "SQLMIGRATION"
+		},
+		"LS_SQL_SERVER_LKP_properties_typeProperties_userName": {
+			"value": "PracticeProject"
+		},
+		"LS_sql_PARQUET_properties_typeProperties_server": {
+			"value": "GAYATHRI\\SQLEXPRESS"
+		},
+		"LS_sql_PARQUET_properties_typeProperties_database": {
+			"value": "SQLMIGRATION"
+		},
+		"LS_sql_PARQUET_properties_typeProperties_userName": {
+			"value": "PracticeProject"
+		},
+		"integrationRuntime1_properties_typeProperties_linkedInfo_resourceId": {
+			"value": "/subscriptions/526100f7-c562-49ff-8082-57b4988ba034/resourcegroups/rgfirstproject001/providers/Microsoft.DataFactory/factories/adffirstproject001/integrationruntimes/integrationRuntime1"
+		}
+	}
+}
