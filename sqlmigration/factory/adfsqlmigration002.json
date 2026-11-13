@@ -1,0 +1,15 @@
+{
+	"name": "adfsqlmigration002",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8e673a6c-d857-4ca0-9748-e0298bf136e0",
+		"tenantId": "33653a22-3dca-4452-bb7c-ee29d20c0ad5"
+	}
+}
