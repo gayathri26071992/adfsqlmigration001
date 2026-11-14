@@ -11,7 +11,11 @@
 			"trustServerCertificate": true,
 			"authenticationType": "SQL",
 			"userName": "PracticeProject",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI3NTJiMmU0My00OTEwLTQ3NjEtYWVjYS1mNWZjZWYxNDU4ODQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0MmFiYjc0Ni1kOGQ2LTRhMjMtOWM2Yi0wOWYwNDg5NWMzMDEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "integrationRuntime1",
+			"type": "IntegrationRuntimeReference"
 		}
 	}
 }
