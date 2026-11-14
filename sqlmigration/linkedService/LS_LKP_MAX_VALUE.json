@@ -8,10 +8,10 @@
 			"server": "GAYATHRI\\SQLEXPRESS",
 			"database": "SQLMIGRATION",
 			"encrypt": "mandatory",
-			"trustServerCertificate": false,
+			"trustServerCertificate": true,
 			"authenticationType": "SQL",
 			"userName": "PracticeProject",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJkMmMxZTQ5Mi1lNmMzLTRiYzAtYmZiZC0wZTBmNWRmYThlMzUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIxMmUxMDUyMy03NGVjLTQ0NzMtYjNhZS0wMWJlMGY5NDAyYzUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntime1",
