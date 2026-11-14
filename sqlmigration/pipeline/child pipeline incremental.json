@@ -143,17 +143,7 @@
 							"policy": {
 								"secureInput": false
 							},
-							"userProperties": [
-								{
-									"name": "TableName"
-								},
-								{
-									"name": "SchemaName"
-								},
-								{
-									"name": "WatermarkTable"
-								}
-							],
+							"userProperties": [],
 							"typeProperties": {
 								"pipeline": {
 									"referenceName": "Child pipeline storedprocedure",
