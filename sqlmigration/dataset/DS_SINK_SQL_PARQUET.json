@@ -23,7 +23,7 @@
 					"value": "@concat(dataset().Table_Name,'/',formatDateTime(utcNow(),'yyyy/MM/dd'))\n",
 					"type": "Expression"
 				},
-				"fileSystem": "sqlmigrationoutput"
+				"fileSystem": "sqlmigrationputput"
 			},
 			"compressionCodec": "snappy"
 		},
